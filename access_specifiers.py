@@ -28,4 +28,3 @@ class Derived(Base):
 
 obj1 = Base()
 print(obj1.a)
-

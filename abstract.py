@@ -1,4 +1,5 @@
-from abc import ABC,abstractmethod
+from abc import ABC, abstractmethod
+
 
 class shape(ABC):  #abstract class coz abstract method is defined
     def __init__(self,name):

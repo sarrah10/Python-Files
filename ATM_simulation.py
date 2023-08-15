@@ -57,4 +57,3 @@ c1.deposit(2000)
 c1.withdraw(1000)
 # c1.getinfo()
 c1.checkbalance()
-
