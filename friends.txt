@@ -1,5 +1,0 @@
-python
-java
-cpp
-dotnet
-Hello
